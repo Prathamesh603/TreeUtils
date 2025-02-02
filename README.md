@@ -1,5 +1,3 @@
-# TreeUtils
-"A C++ library offering functions for manipulating and analyzing binary trees. It includes operations for tree construction, traversals (in-order, pre-order, post-order, level-order), balance checking, leaf counting, verifying identical trees, sum tree check, height calculation, and more. Additional functions are being added.
 # TreeUtils - C++ Tree Library
 
 **TreeUtils** is a C++ library that provides a collection of functions for manipulating and analyzing binary trees. The library includes operations for building trees, performing various tree traversals, checking tree balance, counting leaf nodes, verifying identical trees, and more. Additional functions are being added to enhance its capabilities.
